@@ -1,0 +1,1 @@
+print("This gonna be a project of web_scrapping")
