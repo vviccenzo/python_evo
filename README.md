@@ -1,4 +1,4 @@
-<i>Trying to commit every project made by me in python language.</i>
+<i>Trying to commit every project i have made for study in python language.</i>
 
                                      !!!All the projects is on the master branch!!!
 
