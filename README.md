@@ -1,6 +1,6 @@
 <i>Trying to commit every project made by me in python language.</i>
 
-                                  !!!All the projects is on the master branch!!!
+                                     !!!All the projects is on the master branch!!!
 
 1 - Simple Calculator using O.O.P(Oriented Object Programming) - 07/05/2002
 
